@@ -1,5 +1,6 @@
 $(function() {
-    $("#includedContent").load("assingment1.html");
+
+    $("#includedContent").load("readme.html");
     $("#includedNav").load("nav.html");
     $("#includedFooter").load("footer.html");
 
